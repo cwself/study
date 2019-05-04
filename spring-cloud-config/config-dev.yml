@@ -1,4 +1,4 @@
 env:
-  root: project
+  root: mac
 
 test: ok, this is git
