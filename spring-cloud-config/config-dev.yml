@@ -1,2 +1,4 @@
 env:
   root: project
+
+test: ok, this is git
