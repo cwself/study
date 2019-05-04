@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: spring-cloud-config
+env:
+  root: project
